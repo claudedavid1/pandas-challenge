@@ -8,5 +8,5 @@ CSV files `schools_complete.csv` and `students_complete.csv` can be found in the
 ### Built With
 Python (Jupyter, Pandas)
 
-### Authors
+### Author
 Claude David
